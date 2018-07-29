@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>LISA's BLOG</title>
+		<description>마리 엄마는 개발자<br/>마리야 대신 코딩해줘...</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>블로그 시작</title>
+				<description>&lt;h2 id=&quot;블로그를-만든-이유&quot;&gt;블로그를 만든 이유…&lt;/h2&gt;
+&lt;p&gt;개발하며 만났던 오류들 중 80% 이상이 예전에 만났던 오류들인 것 같은 느낌이 들었고…&lt;br /&gt;
+똑같은 오류 똑같은 대처방식… 똑같은 구글링…&lt;br /&gt;
+구글링 해서 들어간 페이지는 예전에 방문했던 페이지…&lt;br /&gt;
+이제는 더이상 똑같은 오류에 시간낭비 하고 싶지 않았고 &lt;b&gt;그럼 오류를 정리해놓자!&lt;/b&gt;하는 마음으로 시작하게 된 것이 가장 큽니다. 
+&lt;br /&gt;
+그리고 나의 시간을 쏟아 내가 만든 코드들을 보존하고 싶었고&lt;br /&gt;
+다른 사람들에게 공유하여 이 코드가 필요한 사람들은 &lt;br /&gt;
+저의 삽질과정 없이.. 빠른 시간 안에 코드를 완성하길 바라는 마음도 큽니다.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;블로그를-만들며-힘들었던-점&quot;&gt;블로그를 만들며 힘들었던 점&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;워드프레스&lt;/b&gt;로 만들까, &lt;b&gt;github.io&lt;/b&gt;로 만들까 많은 고민을 했습니다.&lt;br /&gt;
+워드프레스는 많은 사람들이 사용하고 있어서 검색하면 예제도 많이 나오고&lt;br /&gt; 
+만들기도 쉬워보였으나… 저랑은 약간 안 맞는 느낌이 들었습니다. &lt;br /&gt;
+그래서 github 개인 블로그를 선택했고 개발자라면 github 블로그 쯤은 있어야지 &lt;br /&gt;
+하는 들뜬 마음으로 블로그를 만들기 시작하였으나… &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1차 루비와의 전쟁 … &lt;br /&gt;
+2차 gem plugin version과의 전쟁 … &lt;br /&gt;
+3차 jekyll과의 전쟁 … &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;이렇게 3차전까지 치른 후 지금의 블로그를 완성 할 수 있었습니다…&lt;br /&gt;
+네이버 블로그처럼 간단하게 만들 수 있을 줄 알았는데 전혀 아니었습니다…&lt;br /&gt;
+제 능력이 아직 여기까지이기 때문이겠지요.. ㅠㅠ &lt;br /&gt;
+그래도 어쨌든! 어느정도 제 맘에 드는 블로그가 탄생했습니다. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;프로필-사진&quot;&gt;프로필 사진&lt;/h2&gt;
+&lt;p&gt;제 프로필 사진은 저의 소중한 반려견 &lt;b&gt;마리&lt;/b&gt;입니다.&lt;br /&gt;
+제가 노트북으로 작업하다 힘이 들어 쉬러 갔을 때 마리가 대신 일해주는 장면 입니다 ^^ㅋㅋ&lt;br /&gt;
+&lt;br /&gt; 
+사진은 어렸을 때 사진이고 지금은 엄청 컸어요. ↓&lt;br /&gt;
+&lt;img src=&quot;/assets/images/blog/mari1.jpg&quot; /&gt;
+&lt;!-- &lt;img src=&quot;/assets/images/blog/20180327_015536.jpg&quot;&gt; --&gt;
+비글은 사랑입니다.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 29 Jul 2018 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/blog/2018/07/29/first-posting.html</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2018/07/29/first-posting.html</guid>
+			</item>
+		
+	</channel>
+</rss>
