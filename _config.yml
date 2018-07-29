@@ -20,20 +20,23 @@ date_format:
 # Language
 lan: "en" 
 
-pagination:
-  enabled: true
-  per_page: 6
-  permalink: '/page:num/'
-  title: ' - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+# pagination:
+#   enabled: true
+#   per_page: 6
+#   permalink: '/page:num/'
+#   title: ' - page :num'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+paginate: 6
 
-autopages:
-  enabled: false
+# autopages:
+#   enabled: false
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate-v2']
+
+# gems: ['jekyll-paginate-v2']
+gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
