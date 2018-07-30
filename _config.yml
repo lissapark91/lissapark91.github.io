@@ -19,6 +19,9 @@ date_format:
   tag: "%Y-%m"
 # Language
 lan: "en" 
+gaaccount: UA-123015599-1
+
+# font: '"PT Serif", Georgia, serif'
 
 # pagination:
 #   enabled: true
